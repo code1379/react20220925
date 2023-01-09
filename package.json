@@ -1,0 +1,18 @@
+{
+  "name": "react20220925",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.20.7",
+    "@babel/plugin-transform-react-jsx": "^7.20.7",
+    "@vitejs/plugin-react": "^3.0.0",
+    "vite": "^4.0.4"
+  }
+}
