@@ -8,6 +8,6 @@ let element = (
 );
 
 console.log("element", element);
-const root = createRoot(document.querySelector("root"));
+const root = createRoot(document.querySelector("#root"));
 console.log("root", root);
 // root.render(element);
